@@ -10,7 +10,7 @@ because some of chapters where named by letter like(S, P, O, ...) I added Englis
 and it exactly fit to it XD
 
 **ToDo**
-- [ ] Crop comments and adds from section a
+- [x] Crop comments and adds from section a
 - [ ] Crop comments and adds from section b
 - [ ] Crop comments and adds from section c
 - [ ] Crop comments and adds from section d
